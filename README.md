@@ -1,7 +1,7 @@
 # Dinero Frontend Test
 
 ### Opgavebeskrivelse
-Du skal bygge en ny angular-applikation. Applikationen skal gøre brug af det åbne [Starwars API (Swapi)](https://swapi.co/).
+Du skal bygge en ny angular-applikation. Applikationen skal gøre brug af det åbne [Starwars API (Swapi)](https://swapi.dev/).
 
 Din applikation kommer til at bestå af to sider. Den første side skal bestå af en liste over planeterne, man kan hente fra Swapi. Bare den første side – du behøver ikke lave pagination. På denne side skal man kunne trykke på en planet i listen og komme til en underside, der viser detaljer om planeten, man har trykket på.
 
